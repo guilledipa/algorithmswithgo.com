@@ -1,3 +1,4 @@
 # algorithmswithgo.com
 
-Problems and solutions for the Algorithms with Go course.
+guilledipa solutions for https://github.com/joncalhoun/algorithmswithgo.com
+problems.
